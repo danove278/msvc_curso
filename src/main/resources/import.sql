@@ -1,0 +1,1 @@
+insert into cursos (nombre) values ("Spring Boot"), ("Java desde cero"), ("Docker Container");
